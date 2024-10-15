@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9aa1216f-1ac7-42e0-b3f3-ae6704ebdef9)# **Two-Player Chess Game**
+# **Two-Player Chess Game**
 
 ## **Project Overview**
 This project is a two-player chess game implemented in Java using the **Swing** framework for the graphical user interface (GUI). It supports all standard chess rules and offers an intuitive GUI where players can move pieces, track game state, and enjoy an interactive chess experience.
@@ -27,7 +27,7 @@ This project is a two-player chess game implemented in Java using the **Swing** 
 
 ## Images for More Clarification
 
-![Chess Board Structure](path/to/image.png)
+![image](https://github.com/user-attachments/assets/9aa1216f-1ac7-42e0-b3f3-ae6704ebdef9)
 
 
 ## **Prerequisites**
