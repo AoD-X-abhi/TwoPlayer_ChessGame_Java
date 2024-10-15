@@ -33,4 +33,11 @@ This project is a two-player chess game implemented in Java using the **Swing** 
 To compile and run this project, you will need:
 - **Java Development Kit (JDK)** (version 8 or higher)
 - A Java Integrated Development Environment (IDE) like **IntelliJ IDEA**, **Eclipse**, or **NetBeans**
+- - Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- Java Swing ![Java Swing](https://img.shields.io/badge/Java_Swing-5382a1?style=for-the-badge&logo=java&logoColor=white)
+- Maven ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+- JUnit ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+- Git ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- IntelliJ IDEA ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
