@@ -31,7 +31,7 @@ This project is a two-player chess game implemented in Java using the **Swing** 
  
 ## **How to Run**
 - Place all the .java files in one folder and compile it.
-- Then run the ChessGameGUI.java file to the Chess Game.
+- Then run the ChessGameGUI.java file to run the Chess Game.
 
 ## **Prerequisites**
 To compile and run this project, you will need:
