@@ -3,6 +3,10 @@
 ## **Project Overview**
 This project is a two-player chess game implemented in Java using the **Swing** framework for the graphical user interface (GUI). It supports all standard chess rules and offers an intuitive GUI where players can move pieces, track game state, and enjoy an interactive chess experience.
 
+## Images for More Clarification
+
+![image](https://github.com/user-attachments/assets/9aa1216f-1ac7-42e0-b3f3-ae6704ebdef9)
+
 ## **Features**
 - Full implementation of chess rules (check, checkmate, stalemate, castling, en passant, promotion, etc.).
 - Java Swing-based GUI for a smooth user experience.
@@ -24,11 +28,6 @@ This project is a two-player chess game implemented in Java using the **Swing** 
   - `Pawn.java`
   - `Rook.java`
   - These files represent the individual chess pieces and their respective movement logic.
-
-## Images for More Clarification
-
-![image](https://github.com/user-attachments/assets/9aa1216f-1ac7-42e0-b3f3-ae6704ebdef9)
-
 
 ## **Prerequisites**
 To compile and run this project, you will need:
