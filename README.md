@@ -5,7 +5,7 @@ This project is a two-player chess game implemented in Java using the **Swing** 
 
 ## Images for More Clarification
 
-![image](https://github.com/user-attachments/assets/9aa1216f-1ac7-42e0-b3f3-ae6704ebdef9)
+![image](images/GIF.gif)
 
 ## **Features**
 - Full implementation of chess rules (check, checkmate, stalemate, castling, en passant, promotion, etc.).
