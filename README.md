@@ -7,6 +7,8 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)]()
 
+</div>
+
 # **Two-Player Chess Game**
 
 ## **Project Overview**
