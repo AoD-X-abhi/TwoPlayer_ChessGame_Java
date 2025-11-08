@@ -5,9 +5,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![IDE](https://img.shields.io/badge/IDE-VSCode%20%7C%20IntelliJ-orange.svg)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)]()
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)]() </div>
 
-</div>
+
 
 # **Two-Player Chess Game**
 
